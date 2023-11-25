@@ -18,8 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-![image](https://github.com/RakshithaK11/Swapping-two-values/assets/139336455/1cb922ce-8430-4bd1-a363-e81bf97765be)
+#Program to swap two values.
+#Developed by: Rakshitha K
+#RegisterNumber:23003887
+a=input()
+b=input()
+t=a
+a=b
+b=t
+print("Swapped values are:",a,b)
 ## OUTPUT:
+![image](https://github.com/RakshithaK11/Swapping-two-values/assets/139336455/bb80f73f-5cc0-4fc4-8a15-c66eb7ed815d)
+
 
 
 ## RESULT:
